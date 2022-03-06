@@ -1,0 +1,15 @@
+#DP{
+     width: 120px;
+     height: 120px;
+     align-self: center;
+     margin-bottom: 4px;
+}
+#edit-profile{
+     display: flex;
+     justify-content: center;
+}
+#edit-profile-item{
+     align-self: end;
+     font-size: 12px;
+     color: black;
+}
